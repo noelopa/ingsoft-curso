@@ -1,0 +1,81 @@
+Universidad Autónoma de México
+Campus Acatlán 
+Carrera: matemáticas aplicadas a la computación
+Materia: Ingeniería de Software. 
+cuenta 092043033
+Alumno: Noe López Padilla
+Tema:
+¿Qué es JSON y XML?
+
+Introducción 
+En este documento se ara el procedimiento de los distintos tipos de lenguajes para el intercambio de información, se hablará de los principales seria XML y JSON.
+los utilizado los mencionados los culés se les hará la diferencia, en donde se utilizan y cuanto pean para la utilización ella ingeniería del software.
+
+LOS LENGUAJES 
+
+¿Qué es JSON? 
+
+JavaScript Objeto Notación en el inglés notación y objetos de java script es un lenguaje de texto independiente de lo ya conocido 
+c/c++, java, JavaScript, Python, etc.
+
+El formato se utiliza con Apires o AJAX estos sustituyen al XML
+las características de Jásenla ventaja de un formato independiente de los programas antes mencionados, no se necesita que estén hablándole mismo idioma, en java Script se maneja con síntesis de código par la creación rápidos ene se y en Resto es n la creación d ella base de datos.
+este y leguaje es el preferido de los programadores y el cual ha sustituido a XML.
+
+¿Qué es XML?
+Es un lenguaje de programación que este separa el contenido de la presentación y se convirtió en lago estándar para el intercambio de documentos de datos.
+ Este lenguaje es de etiquetas para la presentación del documento, se utiliza con un lenguaje estandar para el intercambio de los lenguajes que solo tendrán los datos paso procesamiento.
+ el ejemplo serio:
+ // "<Datos-Nacimiento> 
+      <persona>
+       <Nombre> XXXX </Nombre>
+       <Fecha> xx.xx.xxxx</Fecha>
+       <Ciudad> xxxxxxxx</Ciudad>"//.
+
+las reglas de este lenguaje es de poner un parámetro con <abrir metadató> el metadato </cerrar matadato >, así sucesivamente para la formación del metadato es tabla para la impresión; a esto es ele llama a jerarquía de lo atributos.
+
+LAS VENTAJAS Y DEEVENTAJAS DE LOS XML Y JSON
+Ventajas 
+XML
+•	Formato estructurado.
+•	Es fácil de interpretación en los lenguajes por medio del Schermas (XSD).
+•	Se pueden en estructura complejas y pueden reutilizar.
+JSON
+•	Es muy simple el formato.
+•	El procesamiento es muy alto.
+•	Pesan poco los archivos.
+
+Desventajas
+XML
+o	Algo complicado para estructurarlo.
+o	Estricto en su formato.
+o	Es más tardado en programarlo.
+o	Un error puede fallar toda la estructura.
+JSON
+o	Enredada en la estructura y algo difícil de interpretar.
+
+CONCLUCION
+Los programas XML y JSON son los más utilizados en los programadores, como se menciona en el documento es que sus grandes diferencias de compatibilidad en sus contrapartes tienen sus bemoles, el peso o carga del mismo documentó por el código para él envió.
+La síntesis es algo sencilla el aprender, las consultas en XLM el uso de Xpath y les da acceso de parte de la estructura, es más seguro que JSON.
+Con JSON no hay ninguna herramienta especifica por estar basado en JavaScript no tiene PARSER y esto lo ase inseguro.
+En los documentos gana XML por la maleabilidad de enviar varios formatos imágenes, tablas y gráficos; por lo contrario Json solo envía los datos sin formato. 
+
+
+
+
+bibliografía:
+
+
+
+(N.d.-g). Retrieved October 29, 2021, from Oscarblancarteblog.com website: https://www.oscarblancarteblog.com/2014/07/18/json-vs-xml/
+
+(N.d.-h). Retrieved October 29, 2021, from Nextu.com website: https://www.nextu.com/blog/que-es-json/
+
+(N.d.-i). Retrieved October 29, 2021, from Diferenciario.com website: https://diferenciario.com/xml-y-json/
+
+(N.d.-j). Retrieved October 29, 2021, from Aprenderaprogramar.com website: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=102:ique-es-y-para-que-sirve-el-lenguaje-de-etiquetas-xml-extensible-markup-language&catid=46&Itemid=163
+
+
+
+
+
